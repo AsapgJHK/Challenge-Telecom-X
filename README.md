@@ -15,8 +15,13 @@ No necesitas instalar Python ni Jupyter Notebook, ya que Google Colab proporcion
 ### Dependencias
 
 Las siguientes librerías de Python son necesarias para ejecutar el cuaderno. Puedes instalarlas directamente en una celda de Colab ejecutando los siguientes comandos:
+
 import pandas as pd
+
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import plotly.express as px
